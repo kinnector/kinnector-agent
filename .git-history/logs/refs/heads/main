@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 9bc248264d67206092899a2c8c0ef46ecc5c0e45 Gogs <gogs@fake.local> 1782840134 +0500	clone: from https://github.com/kinnector/kinnector-agent.git
+9bc248264d67206092899a2c8c0ef46ecc5c0e45 0e3611d026b3a8e02eedd5ed1380a8206d98926a Gogs <gogs@fake.local> 1783113225 +0500	commit: update README with endpoint daemon architecture and run instructions
+0e3611d026b3a8e02eedd5ed1380a8206d98926a 4af264a6254ef9e183471ee6ec9d9b04e3c74e5a Gogs <gogs@fake.local> 1783126880 +0500	commit: Commit changes for modular EDR hardening and threat analysis updates
+4af264a6254ef9e183471ee6ec9d9b04e3c74e5a af225585e5ddbfc0baec66a4ca3f78bf084e4cd2 Gogs <gogs@fake.local> 1783200351 +0500	commit: Implement Phase 1: Structured JSON EDR alerts and new CLI commands (ps, rules list, trust-once, version)
+af225585e5ddbfc0baec66a4ca3f78bf084e4cd2 14e002b7e6af3d6b4558415fd023aa641d9cb60b Gogs <gogs@fake.local> 1783200433 +0500	commit: docs: update README with IPC architecture, control flows, and CLI options
+14e002b7e6af3d6b4558415fd023aa641d9cb60b e4ae93da8bb0c26c086405b8ec510075f2eff0d9 Gogs <gogs@fake.local> 1783200734 +0500	commit: feat: implement hybrid real-time subscription push streaming over control socket
+e4ae93da8bb0c26c086405b8ec510075f2eff0d9 5940b9a32d7d1ff31ce05e3aaf60c25d1773c6dc goriyasno <kinnector@gmail.com> 1783200734 +0500	filter-branch: rewrite
+5940b9a32d7d1ff31ce05e3aaf60c25d1773c6dc 59c211ca40e6a8bf3e43892aa01dd722f5ab2ef8 goriyasno <kinnector@gmail.com> 1783352388 +0500	commit: feat(agent): implement detection engines and agent monitoring components
+59c211ca40e6a8bf3e43892aa01dd722f5ab2ef8 9350afb2f6ace78ccaa7b87f48e3d3cf3ef4839b goriyasno <kinnector@gmail.com> 1783353355 +0500	commit: feat(agent): support headless process suspension, tmux popups, and triage commands
+9350afb2f6ace78ccaa7b87f48e3d3cf3ef4839b 2ece9851e4999428754eca5e8a9403155b9856c6 goriyasno <kinnector@gmail.com> 1783354272 +0500	commit: feat(agent): load user_denylist.json and support DenyProcessTree IPC
+2ece9851e4999428754eca5e8a9403155b9856c6 b428c40e2c01007e4bf54cda511de63c0fb7d72c goriyasno <kinnector@gmail.com> 1783355087 +0500	commit: feat(agent): capture and serialize process environment variables in telemetry and alerts
+b428c40e2c01007e4bf54cda511de63c0fb7d72c 3e1a3823a49d704e0aa918276d5c7c85db224397 goriyasno <kinnector@gmail.com> 1783374386 +0500	commit: Fix agent bugs (UDS permissions, TtyListener ptr::read alignment UB, prompt thread blocking, hVNC proc scan, and startup race condition)
+3e1a3823a49d704e0aa918276d5c7c85db224397 37390c533a160ff4b1e88a2cd4b7a7ad839f03dc goriyasno <kinnector@gmail.com> 1783378532 +0500	commit: Normalize kinnector brand name spelling and bolding in README
+37390c533a160ff4b1e88a2cd4b7a7ad839f03dc 145a811a0ae150c06fb11656de5ba0123663f68c goriyasno <kinnector@gmail.com> 1783525927 +0500	commit: Port supply chain hardening to Agent: context tracking, credential/docker socket containment, Dup2 reverse shell checks, and 2-second cooldown
+145a811a0ae150c06fb11656de5ba0123663f68c 8b8c3cd285a9b19dcd65423fea403eb0ec187314 goriyasno <kinnector@gmail.com> 1783528812 +0500	commit: Update README.md to align with the documentation constitution
+8b8c3cd285a9b19dcd65423fea403eb0ec187314 9594e7bad089d69138c7dcf6397be88e2c624c05 goriyasno <kinnector@gmail.com> 1783567947 +0500	pull: Fast-forward
